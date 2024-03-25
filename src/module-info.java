@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Star {
+module BOJ {
 }
